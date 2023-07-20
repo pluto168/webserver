@@ -10,9 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38fa70d9-819f-4ff4-8eb4-e504c15fb929" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/myCode/GetFormServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/myCode/GetFormServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/forms/myform.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/myCode/TryServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/myCode/TryServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/myCode/TryServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/myCode/TryServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jsp File" />
         <option value="Servlet" />
       </list>
     </option>
@@ -62,6 +65,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/forms" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="myCode" />
     </key>
@@ -171,7 +177,7 @@
       <workItem from="1689846780203" duration="2019000" />
       <workItem from="1689853565734" duration="24000" />
       <workItem from="1689853613346" duration="3694000" />
-      <workItem from="1689865669609" duration="269000" />
+      <workItem from="1689865669609" duration="4164000" />
     </task>
     <servers />
   </component>
