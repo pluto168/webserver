@@ -10,12 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38fa70d9-819f-4ff4-8eb4-e504c15fb929" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/myCode/TryServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/good/webserver/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/good/webserver/HelloServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/good/webserver/HelloServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/good/webserver/HelloServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/myCode/TryServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/myCode/TryServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/myCode/TryServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/myCode/TryServlet.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +170,8 @@
       <workItem from="1689760315766" duration="7195000" />
       <workItem from="1689846780203" duration="2019000" />
       <workItem from="1689853565734" duration="24000" />
-      <workItem from="1689853613346" duration="61000" />
+      <workItem from="1689853613346" duration="3694000" />
+      <workItem from="1689865669609" duration="269000" />
     </task>
     <servers />
   </component>
